@@ -11,7 +11,7 @@ pkg update && pkg upgrade
 git clone 
 ```
 ```
-cd youtube
+cd Download-youtube-videos-for-android
 ```
 ```
 chmod +x youtube.sh
