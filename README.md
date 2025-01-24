@@ -1,5 +1,5 @@
-# Download youtube videos for android
-##download Termux app
+<h1> Download youtube videos for android</h1>
+<h2>download Termux app</h2>
 ```
 apt update && apt upgrade
 ```
@@ -15,9 +15,10 @@ cd youtube-vids
 ```
 chmod +x youtube.sh
 ```
-##you can now use this tool by typing:
+<h2>you can now use this tool by typing:</h2>
 ```
 ./youtube.sh
 ```
-###Enter the link of the video
-###you'll find the video in ```YouTube``` folder in ```My Files```
+Enter the link of the video
+
+you'll find the video in ```YouTube``` folder in ```My Files```
