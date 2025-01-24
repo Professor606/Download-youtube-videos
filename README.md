@@ -8,10 +8,10 @@ apt update && apt upgrade
 pkg update && pkg upgrade
 ```
 ```
-git clone https://github.com/Professor606/Download-youtube-videos-for-android.git
+git clone https://github.com/Professor606/youtube-vids.git
 ```
 ```
-cd Download-youtube-videos-for-android
+cd youtube-vids
 ```
 ```
 chmod +x youtube.sh
