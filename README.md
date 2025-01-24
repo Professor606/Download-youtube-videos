@@ -21,4 +21,4 @@ chmod +x youtube.sh
 ./youtube.sh
 ```
 4. Enter the link of the video
-5. you'll find the video in ```YouTube``` folder in your folders
+5. you'll find the video in ```YouTube``` folder in ```My Files```
